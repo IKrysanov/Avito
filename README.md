@@ -9,7 +9,7 @@
 
    ## Требования перед началом  
    1. Установите Python версии 3.x.
-   2. Склонируйте репозиторий с тестами с помощью команды 'git clone https://github.com/IKrysanov/AVITOTECH.git'
+   2. Склонируйте репозиторий с тестами с помощью команды 'git clone https://github.com/IKrysanov/Avito.git'
    3. Создать виртуальное окружение 'python -m venv venv'
    4. Включить виртуальное окружение 'source venv/Script/activate'
    5. Установить все библиотеки командой 'pip install -r requirements.txt'
